@@ -1,0 +1,9 @@
+#table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  #quoteTableContainer {
+    margin-top: 20px;
+    text-align: center;
+  }
